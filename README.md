@@ -4,4 +4,4 @@ Welcome to AlmaBetter Capstone Projects Repository here My project completed Cer
 
 ![image](https://github.com/prathmeshpatil98/Certificates/blob/main/12746837930539.png)
 
-Global Terrorism Project (EDA) .  
+Global Terrorism Project (EDA) .    
